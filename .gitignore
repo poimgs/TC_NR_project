@@ -1,3 +1,7 @@
 defence/ips.lst
 defence/Remote_Control_logs
+defence/test.sh
 offence/ips.lst
+offence/Remote_Control.conf
+offence/Remote_Control_old.sh
+offence/test.sh
